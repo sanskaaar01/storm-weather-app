@@ -5,11 +5,17 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://sanskaaar01.github.io/storm-weather-app/
+
+---
+
 ## ⚡ What is STORM?
 
 STORM is a **real-time atmospheric visualization engine** that transforms raw weather data into an immersive, dynamic environment.
 
-Instead of just showing numbers, STORM **feels the weather**.
+Instead of just displaying numbers, it **simulates the weather around you**.
 
 ---
 
@@ -17,31 +23,33 @@ Instead of just showing numbers, STORM **feels the weather**.
 
 ### 🌍 Real-Time Weather Engine
 
-* Live data powered by WeatherAPI
-* Accurate temperature, humidity, wind, pressure, AQI
+* Live weather data using WeatherAPI
+* Temperature, humidity, wind, pressure, AQI
+
+---
 
 ### 🌦️ Dynamic Environment Simulation
 
-* Rain systems with intensity scaling 🌧️
-* Snow particle physics ❄️
+* Rain system with intensity scaling 🌧️
+* Snow particle system ❄️
 * Thunderstorm engine with lightning ⚡
 * Wind streak simulation 💨
-* Fog and atmospheric diffusion 🌫️
+* Fog & atmospheric effects 🌫️
 
 ---
 
 ### 🎨 Adaptive UI System
 
-* UI color shifts based on weather conditions
+* UI colors change based on weather
 * Temperature glow effects
-* Smooth transitions and animations
+* Smooth animations and transitions
 
 ---
 
 ### 🌌 Canvas-Based Sky Engine
 
-* Procedural sky rendering
-* Animated starfield
+* Procedural animated sky
+* Starfield rendering
 * Gradient-based atmospheric depth
 
 ---
@@ -58,34 +66,33 @@ Instead of just showing numbers, STORM **feels the weather**.
 
 ## 🧠 Tech Stack
 
-* **HTML5**
-* **CSS3 (Advanced Animations + Glassmorphism)**
-* **Vanilla JavaScript**
-* **Canvas API**
-* **WeatherAPI**
+* HTML5
+* CSS3 (Advanced animations + glassmorphism)
+* JavaScript (Vanilla)
+* Canvas API
+* WeatherAPI
 
 ---
 
 ## 🧪 How It Works
 
-1. User inputs location
+1. User enters location
 2. API fetches real-time weather data
 3. Condition codes mapped to visual states
-4. UI + background + particles update dynamically
-5. System renders a **live weather experience**
+4. UI + environment dynamically updates
+5. System renders a **live atmospheric experience**
 
 ---
 
 ## 📸 Preview
 
-> Add screenshots here (IMPORTANT)
+> Add screenshots here (this will boost your profile a lot)
 
 ---
 
 ## ▶️ Run Locally
 
 ```bash
-# Just open in browser
 index.html
 ```
 
@@ -94,17 +101,17 @@ index.html
 ## ⚠️ Disclaimer
 
 API key is exposed for demo purposes only.
-Not recommended for production use.
+Not suitable for production use.
 
 ---
 
 ## 💡 Future Enhancements
 
 * 🌍 Auto-location detection
-* 📱 Fully responsive mobile UI
-* 📈 Weather forecasting (7-day view)
-* 🧠 ML-based weather pattern insights
-* 🔊 Ambient weather sound engine
+* 📱 Improved mobile responsiveness
+* 📈 Multi-day forecast
+* 🔊 Ambient weather sound system
+* 🧠 ML-based weather insights
 
 ---
 
@@ -116,5 +123,5 @@ Not recommended for production use.
 
 ## ⭐ Final Thought
 
-Most weather apps **tell you** the weather.
-STORM makes you **experience it**.
+Most apps show data.
+**STORM makes you experience it.**
