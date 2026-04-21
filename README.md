@@ -84,8 +84,6 @@ Instead of just displaying numbers, it **simulates the weather around you**.
 
 ---
 
-## 📸 Preview
-
 
 ---
 
