@@ -86,7 +86,7 @@ Instead of just displaying numbers, it **simulates the weather around you**.
 
 ## 📸 Preview
 
-> Add screenshots here (this will boost your profile a lot
+> Add screenshots here (this will boost your profile a lo
 
 ---
 
